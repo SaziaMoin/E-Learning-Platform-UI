@@ -54,3 +54,6 @@ JavaScript allows users to update their name and email.
 ✅ Animated Hover Effects - Smooth animations on course cards.
 
 ## Output
+![Image](https://github.com/user-attachments/assets/d2e07069-398b-45aa-96c2-d060bbdda644)
+![Image](https://github.com/user-attachments/assets/2b8f1707-6506-4914-be7a-a547df6c29dd)
+![Image](https://github.com/user-attachments/assets/89806bd2-aa82-463f-8306-3d94e858d4c8)
